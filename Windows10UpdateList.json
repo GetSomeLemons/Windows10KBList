@@ -1,0 +1,1495 @@
+{
+  "Windows10": {
+    "20H1": {
+      "Build": "19041",
+      "KBs": [
+        {
+          "KB4557957": {
+            "Year": 2020,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-06 Cumulative Update for Windows 10"
+          },
+          "KB4567523": {
+            "Year": 2020,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-06 Cumulative Update for Windows 10"
+          },
+          "KB4565503": {
+            "Year": 2020,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-07 Cumulative Update for Windows 10"
+          },
+          "KB4568831": {
+            "Year": 2020,
+            "Month": 7,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2020-07 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4566782": {
+            "Year": 2020,
+            "Month": 8,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-08 Cumulative Update for Windows 10"
+          },
+          "KB4571744": {
+            "Year": 2020,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2020-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4571756": {
+            "Year": 2020,
+            "Month": 9,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-09 Cumulative Update for Windows 10"
+          },
+          "KB4577063": {
+            "Year": 2020,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2020-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4579311": {
+            "Year": 2020,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-10 Cumulative Update for Windows 10"
+          },
+          "KB4580364": {
+            "Year": 2020,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2020-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4586781": {
+            "Year": 2020,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-11 Cumulative Update for Windows 10"
+          },
+          "KB4594440": {
+            "Year": 2020,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2020-11 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB4586853": {
+            "Year": 2020,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2020-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4592438": {
+            "Year": 2020,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-12 Cumulative Update for Windows 10"
+          },
+          "KB4598242": {
+            "Year": 2021,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-01 Cumulative Update for Windows 10"
+          },
+          "KB4598291": {
+            "Year": 2021,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4601319": {
+            "Year": 2021,
+            "Month": 2,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-02 Cumulative Update for Windows 10"
+          },
+          "KB4601382": {
+            "Year": 2021,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5000802": {
+            "Year": 2021,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-03 Cumulative Update for Windows 10"
+          },
+          "KB5001567": {
+            "Year": 2021,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-03 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5001649": {
+            "Year": 2021,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-03 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5000842": {
+            "Year": 2021,
+            "Month": 3,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-03 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5001330": {
+            "Year": 2021,
+            "Month": 4,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-04 Cumulative Update for Windows 10"
+          },
+          "KB5001391": {
+            "Year": 2021,
+            "Month": 4,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-04 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5003173": {
+            "Year": 2021,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-05 Cumulative Update for Windows 10"
+          },
+          "KB5003214": {
+            "Year": 2021,
+            "Month": 5,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-05 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5003637": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10"
+          },
+          "KB5004476": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004760": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004945": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004237": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10"
+          },
+          "KB5004296": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5005033": {
+            "Year": 2021,
+            "Month": 8,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-08 Cumulative Update for Windows 10"
+          },
+          "KB5005101": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5005565": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10"
+          },
+          "KB5005611": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5006670": {
+            "Year": 2021,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-10 Cumulative Update for Windows 10"
+          },
+          "KB5006738": {
+            "Year": 2021,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5007186": {
+            "Year": 2021,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-11 Cumulative Update for Windows 10"
+          },
+          "KB5007253": {
+            "Year": 2021,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5008212": {
+            "Year": 2021,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-12 Cumulative Update for Windows 10"
+          }
+        }
+      ]
+    },
+    "20H2": {
+      "Build": "19042",
+      "KBs": [
+        {
+          "KB4580364": {
+            "Year": 2020,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2020-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4586781": {
+            "Year": 2020,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-11 Cumulative Update for Windows 10"
+          },
+          "KB4594440": {
+            "Year": 2020,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2020-11 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB4586853": {
+            "Year": 2020,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2020-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4592438": {
+            "Year": 2020,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2020-12 Cumulative Update for Windows 10"
+          },
+          "KB4598242": {
+            "Year": 2021,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-01 Cumulative Update for Windows 10"
+          },
+          "KB4598291": {
+            "Year": 2021,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB4601319": {
+            "Year": 2021,
+            "Month": 2,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-02 Cumulative Update for Windows 10"
+          },
+          "KB4601382": {
+            "Year": 2021,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5000802": {
+            "Year": 2021,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-03 Cumulative Update for Windows 10"
+          },
+          "KB5001567": {
+            "Year": 2021,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-03 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5001649": {
+            "Year": 2021,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-03 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5000842": {
+            "Year": 2021,
+            "Month": 3,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-03 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5001330": {
+            "Year": 2021,
+            "Month": 4,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-04 Cumulative Update for Windows 10"
+          },
+          "KB5001391": {
+            "Year": 2021,
+            "Month": 4,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-04 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5003173": {
+            "Year": 2021,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-05 Cumulative Update for Windows 10"
+          },
+          "KB5003214": {
+            "Year": 2021,
+            "Month": 5,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-05 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5003637": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10"
+          },
+          "KB5004476": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004760": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004945": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004237": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10"
+          },
+          "KB5004296": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5005033": {
+            "Year": 2021,
+            "Month": 8,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-08 Cumulative Update for Windows 10"
+          },
+          "KB5005101": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5005565": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10"
+          },
+          "KB5005611": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5006670": {
+            "Year": 2021,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-10 Cumulative Update for Windows 10"
+          },
+          "KB5006738": {
+            "Year": 2021,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5007186": {
+            "Year": 2021,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-11 Cumulative Update for Windows 10"
+          },
+          "KB5007253": {
+            "Year": 2021,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5008212": {
+            "Year": 2021,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-12 Cumulative Update for Windows 10"
+          },
+          "KB5009543": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10"
+          },
+          "KB5010793": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5009596": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5010342": {
+            "Year": 2022,
+            "Month": 2,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-02 Cumulative Update for Windows 10"
+          },
+          "KB5010415": {
+            "Year": 2022,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5011487": {
+            "Year": 2022,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-03 Cumulative Update for Windows 10"
+          },
+          "KB5011543": {
+            "Year": 2022,
+            "Month": 3,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-03 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5012599": {
+            "Year": 2022,
+            "Month": 4,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-04 Cumulative Update for Windows 10"
+          },
+          "KB5011831": {
+            "Year": 2022,
+            "Month": 4,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-04 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5013942": {
+            "Year": 2022,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-05 Cumulative Update for Windows 10"
+          },
+          "KB5015020": {
+            "Year": 2022,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-05 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5014023": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5014699": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10"
+          },
+          "KB5016139": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5014666": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5015807": {
+            "Year": 2022,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-07 Cumulative Update for Windows 10"
+          },
+          "KB5015878": {
+            "Year": 2022,
+            "Month": 7,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-07 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5016616": {
+            "Year": 2022,
+            "Month": 8,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-08 Cumulative Update for Windows 10"
+          },
+          "KB5016688": {
+            "Year": 2022,
+            "Month": 8,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-08 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5017308": {
+            "Year": 2022,
+            "Month": 9,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-09 Cumulative Update for Windows 10"
+          },
+          "KB5017380": {
+            "Year": 2022,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5018410": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10"
+          },
+          "KB5020435": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5018482": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5020953": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5019959": {
+            "Year": 2022,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-11 Cumulative Update for Windows 10"
+          },
+          "KB5020030": {
+            "Year": 2022,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5021233": {
+            "Year": 2022,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-12 Cumulative Update for Windows 10"
+          },
+          "KB5022282": {
+            "Year": 2023,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-01 Cumulative Update for Windows 10"
+          },
+          "KB5019275": {
+            "Year": 2023,
+            "Month": 1,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-01 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5022834": {
+            "Year": 2023,
+            "Month": 2,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-02 Cumulative Update for Windows 10"
+          },
+          "KB5022906": {
+            "Year": 2023,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5023696": {
+            "Year": 2023,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-03 Cumulative Update for Windows 10"
+          },
+          "KB5023773": {
+            "Year": 2023,
+            "Month": 3,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-03 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5025221": {
+            "Year": 2023,
+            "Month": 4,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-04 Cumulative Update for Windows 10"
+          }
+        }
+      ]
+    },
+    "21H1": {
+      "Build": "19043",
+      "KBs": [
+        {
+          "KB5003173": {
+            "Year": 2021,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-05 Cumulative Update for Windows 10"
+          },
+          "KB5003214": {
+            "Year": 2021,
+            "Month": 5,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-05 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5003637": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10"
+          },
+          "KB5004476": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004760": {
+            "Year": 2021,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004945": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5004237": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10"
+          },
+          "KB5004296": {
+            "Year": 2021,
+            "Month": 7,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-07 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5005033": {
+            "Year": 2021,
+            "Month": 8,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-08 Cumulative Update for Windows 10"
+          },
+          "KB5005101": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5005565": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10"
+          },
+          "KB5005611": {
+            "Year": 2021,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5006670": {
+            "Year": 2021,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-10 Cumulative Update for Windows 10"
+          },
+          "KB5006738": {
+            "Year": 2021,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5007186": {
+            "Year": 2021,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-11 Cumulative Update for Windows 10"
+          },
+          "KB5007253": {
+            "Year": 2021,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5008212": {
+            "Year": 2021,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-12 Cumulative Update for Windows 10"
+          },
+          "KB5009543": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10"
+          },
+          "KB5010793": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5009596": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5010342": {
+            "Year": 2022,
+            "Month": 2,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-02 Cumulative Update for Windows 10"
+          },
+          "KB5010415": {
+            "Year": 2022,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5011487": {
+            "Year": 2022,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-03 Cumulative Update for Windows 10"
+          },
+          "KB5011543": {
+            "Year": 2022,
+            "Month": 3,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-03 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5012599": {
+            "Year": 2022,
+            "Month": 4,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-04 Cumulative Update for Windows 10"
+          },
+          "KB5011831": {
+            "Year": 2022,
+            "Month": 4,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-04 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5013942": {
+            "Year": 2022,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-05 Cumulative Update for Windows 10"
+          },
+          "KB5015020": {
+            "Year": 2022,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-05 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5014023": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5014699": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10"
+          },
+          "KB5016139": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5014666": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5015807": {
+            "Year": 2022,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-07 Cumulative Update for Windows 10"
+          },
+          "KB5015878": {
+            "Year": 2022,
+            "Month": 7,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-07 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5016616": {
+            "Year": 2022,
+            "Month": 8,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-08 Cumulative Update for Windows 10"
+          },
+          "KB5016688": {
+            "Year": 2022,
+            "Month": 8,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-08 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5017308": {
+            "Year": 2022,
+            "Month": 9,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-09 Cumulative Update for Windows 10"
+          },
+          "KB5017380": {
+            "Year": 2022,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5018410": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10"
+          },
+          "KB5020435": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5018482": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5020953": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5019959": {
+            "Year": 2022,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-11 Cumulative Update for Windows 10"
+          },
+          "KB5020030": {
+            "Year": 2022,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5021233": {
+            "Year": 2022,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-12 Cumulative Update for Windows 10"
+          }
+        }
+      ]
+    },
+    "21H2": {
+      "Build": "19044",
+      "KBs": [
+        {
+          "KB5007253": {
+            "Year": 2021,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2021-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5008212": {
+            "Year": 2021,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2021-12 Cumulative Update for Windows 10"
+          },
+          "KB5009543": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10"
+          },
+          "KB5010793": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5009596": {
+            "Year": 2022,
+            "Month": 1,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-01 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5010342": {
+            "Year": 2022,
+            "Month": 2,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-02 Cumulative Update for Windows 10"
+          },
+          "KB5010415": {
+            "Year": 2022,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5011487": {
+            "Year": 2022,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-03 Cumulative Update for Windows 10"
+          },
+          "KB5011543": {
+            "Year": 2022,
+            "Month": 3,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-03 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5012599": {
+            "Year": 2022,
+            "Month": 4,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-04 Cumulative Update for Windows 10"
+          },
+          "KB5011831": {
+            "Year": 2022,
+            "Month": 4,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-04 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5013942": {
+            "Year": 2022,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-05 Cumulative Update for Windows 10"
+          },
+          "KB5015020": {
+            "Year": 2022,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-05 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5014023": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5014699": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10"
+          },
+          "KB5016139": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5014666": {
+            "Year": 2022,
+            "Month": 6,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-06 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5015807": {
+            "Year": 2022,
+            "Month": 7,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-07 Cumulative Update for Windows 10"
+          },
+          "KB5015878": {
+            "Year": 2022,
+            "Month": 7,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-07 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5016616": {
+            "Year": 2022,
+            "Month": 8,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-08 Cumulative Update for Windows 10"
+          },
+          "KB5016688": {
+            "Year": 2022,
+            "Month": 8,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-08 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5017308": {
+            "Year": 2022,
+            "Month": 9,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-09 Cumulative Update for Windows 10"
+          },
+          "KB5017380": {
+            "Year": 2022,
+            "Month": 9,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-09 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5018410": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10"
+          },
+          "KB5020435": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5018482": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5020953": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5019959": {
+            "Year": 2022,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-11 Cumulative Update for Windows 10"
+          },
+          "KB5020030": {
+            "Year": 2022,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5021233": {
+            "Year": 2022,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-12 Cumulative Update for Windows 10"
+          },
+          "KB5022282": {
+            "Year": 2023,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-01 Cumulative Update for Windows 10"
+          },
+          "KB5019275": {
+            "Year": 2023,
+            "Month": 1,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-01 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5022834": {
+            "Year": 2023,
+            "Month": 2,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-02 Cumulative Update for Windows 10"
+          },
+          "KB5022906": {
+            "Year": 2023,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5023696": {
+            "Year": 2023,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-03 Cumulative Update for Windows 10"
+          },
+          "KB5023773": {
+            "Year": 2023,
+            "Month": 3,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-03 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5025221": {
+            "Year": 2023,
+            "Month": 4,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-04 Cumulative Update for Windows 10"
+          },
+          "KB5026361": {
+            "Year": 2023,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-05 Cumulative Update for Windows 10"
+          },
+          "KB5027215": {
+            "Year": 2023,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-06 Cumulative Update for Windows 10"
+          }
+        }
+      ]
+    },
+    "22H2": {
+      "Build": "19045",
+      "KBs": [
+        {
+          "KB5020953": {
+            "Year": 2022,
+            "Month": 10,
+            "Preview": false,
+            "OutOfBand": true,
+            "FriendlyName": "2022-10 Cumulative Update for Windows 10 Out-Of-band"
+          },
+          "KB5019959": {
+            "Year": 2022,
+            "Month": 11,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-11 Cumulative Update for Windows 10"
+          },
+          "KB5020030": {
+            "Year": 2022,
+            "Month": 11,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2022-11 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5021233": {
+            "Year": 2022,
+            "Month": 12,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2022-12 Cumulative Update for Windows 10"
+          },
+          "KB5022282": {
+            "Year": 2023,
+            "Month": 1,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-01 Cumulative Update for Windows 10"
+          },
+          "KB5019275": {
+            "Year": 2023,
+            "Month": 1,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-01 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5022834": {
+            "Year": 2023,
+            "Month": 2,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-02 Cumulative Update for Windows 10"
+          },
+          "KB5022906": {
+            "Year": 2023,
+            "Month": 2,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-02 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5023696": {
+            "Year": 2023,
+            "Month": 3,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-03 Cumulative Update for Windows 10"
+          },
+          "KB5023773": {
+            "Year": 2023,
+            "Month": 3,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-03 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5025221": {
+            "Year": 2023,
+            "Month": 4,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-04 Cumulative Update for Windows 10"
+          },
+          "KB5025297": {
+            "Year": 2023,
+            "Month": 4,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-04 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5026361": {
+            "Year": 2023,
+            "Month": 5,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-05 Cumulative Update for Windows 10"
+          },
+          "KB5026435": {
+            "Year": 2023,
+            "Month": 5,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-05 Cumulative Update for Windows 10 Preview"
+          },
+          "KB5027215": {
+            "Year": 2023,
+            "Month": 6,
+            "Preview": false,
+            "OutOfBand": false,
+            "FriendlyName": "2023-06 Cumulative Update for Windows 10"
+          },
+          "KB5027293": {
+            "Year": 2023,
+            "Month": 6,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-06 Cumulative Update for Windows 10 Preview"
+          }
+        }
+      ]
+    }
+  }
+}
