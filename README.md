@@ -1,7 +1,7 @@
 # Windows10KBList
 .json list of KB's for Windows 10 from 20H1 to 22H2
 
-## How to use with Powershell
+## How to use with PowerShell
 You can either download the .json, or you can use it straight from GitHub:
 
 ```PowerShell
