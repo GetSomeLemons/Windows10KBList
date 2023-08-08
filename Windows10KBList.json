@@ -1501,6 +1501,13 @@
             "Preview": false,
             "OutOfBand": false,
             "FriendlyName": "2023-07 Cumulative Update for Windows 10"
+          },
+          "KB5028244": {
+            "Year": 2023,
+            "Month": 7,
+            "Preview": true,
+            "OutOfBand": false,
+            "FriendlyName": "2023-07 Cumulative Update for Windows 10 Preview"
           }
         }
       ]
